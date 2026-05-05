@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:adrianfelipe20202-sketch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/adriansuarezdallos"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/felipe-suarez-1b5343313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://minutoglobal.co"><img src="https://img.shields.io/badge/MinutoGlobal.co-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
